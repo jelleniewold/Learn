@@ -21,11 +21,20 @@ p {
   padding: 5px;
 }
 
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
 section {
   width: 100%;
-  margin: 0;
+  margin-bottom: 20px;
 }
-main {
-  width: 100%;
-  margin: 0;
+
+footer {
+  background-color: #f4f4f4;
+  padding: 20px;
+  text-align: center;
 }
