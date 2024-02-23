@@ -20,3 +20,8 @@ p {
   border-style: dotted;
   padding: 5px;
 }
+
+section {
+  width: 100%;
+  margin: 0;
+}
