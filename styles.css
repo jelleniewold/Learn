@@ -13,9 +13,8 @@ a {
 }
 
 p {
-  color: darkgreen;
+  color: #293241;
   width: 30%;
-  border-color: green;
   border-width: 2px;
   border-style: dotted;
   padding: 5px;
@@ -34,7 +33,6 @@ section {
 }
 
 footer {
-  background-color: #f4f4f4;
   padding: 20px;
   text-align: center;
 }
