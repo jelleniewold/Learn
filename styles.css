@@ -2,6 +2,9 @@ body {
   background-color: rgb(153, 153, 153);
   text-align: center;
   font-family: Verdana;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 h1 {
@@ -37,4 +40,5 @@ section {
 footer {
   padding: 20px;
   text-align: center;
+  margin-top: auto;
 }
