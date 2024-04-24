@@ -21,3 +21,11 @@ footer {
 .logo-container a {
   margin-right: 10px; /* Adjust as needed for spacing between logos */
 }
+
+.badge-container {
+  display: flex;
+}
+
+.badge-container > div {
+  margin-right: 10px; /* Adjust as needed for spacing between badges */
+}
