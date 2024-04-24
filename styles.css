@@ -23,6 +23,12 @@ footer {
   margin-right: 10px; /* Adjust as needed for spacing between logos */
 }
 
+.logo-container a img {
+  width: 150px; /* Set a fixed width */
+  height: auto; /* Maintain aspect ratio */
+  margin-right: 10px; /* Adjust as needed for spacing between logos */
+}
+
 .badge-container {
   display: flex;
   justify-content: center; /* Align items horizontally at the center */
@@ -31,4 +37,3 @@ footer {
 .badge-container > div {
   margin-right: 10px; /* Adjust as needed for spacing between badges */
 }
-
