@@ -13,3 +13,11 @@ footer {
   text-align: right;
   margin-top: auto;
 }
+
+.logo-container {
+  display: flex;
+}
+
+.logo-container a {
+  margin-right: 10px; /* Adjust as needed for spacing between logos */
+}
